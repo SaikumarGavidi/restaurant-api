@@ -1,0 +1,256 @@
+{
+  "items": [
+    {
+      "category": "Pizza",
+      "id": "19-Q9JSH3ZvC40lOlUttxf4wtPVm9ctIU",
+      "name": "American Cheesy Pizza",
+      "prize": 300,
+      "url": "https://i.postimg.cc/x8vCsbCX/download.jpg"
+    },
+    {
+      "category": "Pizza",
+      "id": "1QB2q13sop1x86CbOf5c5NBY0geWhk2hZ",
+      "name": "Bacon Pizza",
+      "prize": 450,
+      "url": "https://i.postimg.cc/gkjKhd2b/download-1.jpg"
+    },
+    {
+      "category": "Pizza",
+      "id": "1ARbwqW_uOLb4eCeWsyCJVZSYUIreXsrD",
+      "name": "Double Cheese Pizza",
+      "prize": 500,
+      "url": "https://i.postimg.cc/NjZLgKDF/download-2.jpg"
+    },
+    {
+      "category": "Pizza",
+      "id": "1a5kM2bkvvvG9x12V_KkuZ1HRor2xgU20",
+      "name": "Italian Cheesy Pizza",
+      "prize": 450,
+      "url": "https://i.postimg.cc/L5ZgkjNc/download-3.jpg"
+    },
+    {
+      "category": "Pizza",
+      "id": "12fiRkYTdFZWr3qaczRBUu-c6ciQ1FY2V",
+      "name": "Keema Pizza",
+      "prize": 350,
+      "url": "https://i.postimg.cc/vBK660L7/download-4.jpg"
+    },
+    {
+      "category": "Pizza",
+      "id": "1RtJQB2pxhHWFGSH2vdOJxgSI4b1vEdTm",
+      "name": "Non Veg Pizza",
+      "prize": 500,
+      "url": "https://i.postimg.cc/RFhHFkfV/download-5.jpg"
+    },
+    {
+      "category": "Pizza",
+      "id": "1gWKqlaXkO7h-w3--WygpgUPy28a21QHp",
+      "name": "Olives Pizza",
+      "prize": 200,
+      "url": "https://i.postimg.cc/CKFDyBx8/download-6.jpg"
+    },
+    {
+      "category": "Pizza",
+      "id": "1hUGxEC95jEwnlXVh08isFuoxivT5-HwB",
+      "name": "Onion Pizza",
+      "prize": 250,
+      "url": "https://i.postimg.cc/Mp0Rrbqx/download-7.jpg"
+    },
+    {
+      "category": "Pizza",
+      "id": "1u8NjRiICc3J4U9WBgarM7gFvkyTEOtz-",
+      "name": "Oven Pizza",
+      "prize": 300,
+      "url": "https://i.postimg.cc/HLBMTYrh/download-8.jpg"
+    },
+    {
+      "category": "Pizza",
+      "id": "1RQ1mCBZPYA486Oox1wjIAKDoW-JlBNdp",
+      "name": "Tomato Pizza",
+      "prize": 350,
+      "url": "https://i.postimg.cc/0y1DfHgc/download-9.jpg"
+    },
+    {
+      "category": "Pizza",
+      "id": "1w-VuYFP68NaI3QTUic3teSxSA1e90QYT",
+      "name": "Veg Pizza",
+      "prize": 240,
+      "url": "https://i.postimg.cc/D0tsRxSf/download-10.jpg"
+    },
+    {
+      "category": "Pizza",
+      "id": "1q6JXHunKjE6ew0WSPRZ0wnCGqxkpoTjX",
+      "name": "Italian Pizza",
+      "prize": 380,
+      "url": "https://i.postimg.cc/Rh3KPkVb/download-11.jpg"
+    },
+    {
+      "category": "Rice Items",
+      "id": "1hshLhPmvU8MGU0dJL3QAD9sfwLfrZudE",
+      "name": "Camel Meat Biriyani",
+      "prize": 250,
+      "url": "https://i.postimg.cc/DfDqWwxV/download-12.jpg"
+    },
+    {
+      "category": "Rice Items",
+      "id": "1DcmVft5AozS0TCCKyige1j4RVTiycfRB",
+      "name": "Chicken Biriyani",
+      "prize": 300,
+      "url": "https://i.postimg.cc/Kz8nTkXb/download-13.jpg"
+    },
+    {
+      "category": "Rice Items",
+      "id": "1JKKnUJ50gFHESkLl_1uvYzNq0U7lliVc",
+      "name": "Veg Biriyani",
+      "prize": 220,
+      "url": "https://i.postimg.cc/1zHG40jM/download-14.jpg"
+    },
+    {
+      "category": "Rice Items",
+      "id": "1whqo8bnsDFZlQgeE8dLckVH-q1CvDQmJ",
+      "name": "Dum Biriyani",
+      "prize": 320,
+      "url": "https://i.postimg.cc/wBH56407/download-15.jpg"
+    },
+    {
+      "category": "Rice Items",
+      "id": "1TMqorI3sEtWu8tGnR92fbj2HMbqFghqG",
+      "name": "Egg Biriyani",
+      "prize": 240,
+      "url": "https://i.postimg.cc/vHJLKZn7/download-16.jpg"
+    },
+    {
+      "category": "Rice Items",
+      "id": "1mc2F0bagZxRuTFGAzZ934Vs4IUT3tf8-",
+      "name": "Fried Rice",
+      "prize": 260,
+      "url": "https://i.postimg.cc/nr5YpHPJ/download-17.jpg"
+    },
+    {
+      "category": "Rice Items",
+      "id": "1PkbIazPAZNcYBicZoIg808Mz6Q4Ff1zQ",
+      "name": "Full Meals",
+      "prize": 180,
+      "url": "https://i.postimg.cc/FFnxjZsB/download-18.jpg"
+    },
+    {
+      "category": "Rice Items",
+      "id": "1SGTRIPCFs2S5DDa5EX6I8ck8J5FkOZJa",
+      "name": "Grilled Chicken Biriyani",
+      "prize": 350,
+      "url": "https://i.postimg.cc/Fz1gMfGp/download-19.jpg"
+    },
+    {
+      "category": "Rice Items",
+      "id": "1y_V1D-n5ifzBodqUwL3cMn6wnBHW0HfF",
+      "name": "Cuisine Biriyani Dish",
+      "prize": 320,
+      "url": "https://i.postimg.cc/hj21Z88h/download-20.jpg"
+    },
+    {
+      "category": "Cold Drinks",
+      "id": "1zTPFO3DVl96hq-AtLAvUAI8GV4cMmOR3",
+      "name": "Cold Coffee",
+      "prize": 50,
+      "url": "https://i.postimg.cc/wvqkk4mS/download-21.jpg"
+    },
+    {
+      "category": "Cold Drinks",
+      "id": "1iInoRGdGPefRrsZQMbeHF0KkuPmU01Yu",
+      "name": "Strawberry Milk Shake",
+      "prize": 80,
+      "url": "https://i.postimg.cc/3wH1kxJr/download-22.jpg"
+    },
+    {
+      "category": "Cold Drinks",
+      "id": "1BlPB70Cma4KtUDfAqQq90AlElD9-29MR",
+      "name": "Cherry Milk Shake",
+      "prize": 90,
+      "url": "https://i.postimg.cc/KYrNBhRP/download-23.jpg"
+    },
+    {
+      "category": "Cold Drinks",
+      "id": "13KuZtpbCinD8R41biG6psQJSSQ5u9Ej2",
+      "name": "Cold Hazelnut",
+      "prize": 110,
+      "url": "https://i.postimg.cc/JzXK7k8d/download-24.jpg"
+    },
+    {
+      "category": "Cold Drinks",
+      "id": "12nNcmfmX8C9Mca_CWoMsBmNPbA6Msqnf",
+      "name": "Cold Chocolate",
+      "prize": 100,
+      "url": "https://i.postimg.cc/3JVnHZsv/download-25.jpg"
+    },
+    {
+      "category": "Cold Drinks",
+      "id": "1-Xl7Ilzrw3egBF2cl4rbqo6YhPoOngy4",
+      "name": "Raspberry Milk Shake",
+      "prize": 90,
+      "url": "https://i.postimg.cc/dtL4XfxF/download-26.jpg"
+    },
+    {
+      "category": "Cold Drinks",
+      "id": "1N3PflFuRAf5Wt5wXvcmK0Mq4DEfwOABc",
+      "name": "Fruit Milk Shake",
+      "prize": 80,
+      "url": "https://i.postimg.cc/RhbGh1q2/download-27.jpg"
+    },
+    {
+      "category": "Cold Drinks",
+      "id": "115Mtm-zHd3mE6g33VBO9GztfBLiv2geO",
+      "name": "Milk Shake Combo",
+      "prize": 150,
+      "url": "https://i.postimg.cc/BZhmm3NN/download-28.jpg"
+    },
+    {
+      "category": "Cold Drinks",
+      "id": "1RfcdvzvCIbaOglZPPp4oZanMC6Jdgk-x",
+      "name": "Strawberry Cappuccino",
+      "prize": 100,
+      "url": "https://i.postimg.cc/76wKWYpt/download-29.jpg"
+    },
+    {
+      "category": "Hot Drinks",
+      "id": "11OcppqrIJ2bn2P_akQdl2-cwCNxAo1eR",
+      "name": "Black Coffee",
+      "prize": 30,
+      "url": "https://i.postimg.cc/wMB094xh/download-30.jpg"
+    },
+    {
+      "category": "Hot Drinks",
+      "id": "1Fnk8IeV9ecicqvIhsRBYiK3zY3glCl8b",
+      "name": "Hot Tea",
+      "prize": 40,
+      "url": "https://i.postimg.cc/2SL9qtQG/download-31.jpg"
+    },
+    {
+      "category": "Hot Drinks",
+      "id": "1Nv9RfgoQrSwEgAdFwIBSxj9wSEh4oCtT",
+      "name": "Hot Coffee",
+      "prize": 40,
+      "url": "https://i.postimg.cc/yYbr8KZW/download-32.jpg"
+    },
+    {
+      "category": "Hot Drinks",
+      "id": "1ipTABJXebiFAgfDYDZjYBSAGXygSF-pO",
+      "name": "Hot Cappuccino",
+      "prize": 80,
+      "url": "https://i.postimg.cc/3wgL1DbD/download-33.jpg"
+    },
+    {
+      "category": "Hot Drinks",
+      "id": "1Oo5yON_Rhv3c6Tc4WgycB3IYZgRvVdTJ",
+      "name": "Hot Chocolate",
+      "prize": 90,
+      "url": "https://i.postimg.cc/N0hJRxbc/download-34.jpg"
+    },
+    {
+      "category": "Hot Drinks",
+      "id": "1eYIOFAdSpIvTwXULXR7j-Ivw7uZ6U_dI",
+      "name": "Hot Hazelnut",
+      "prize": 100,
+      "url": "https://i.postimg.cc/tCTMbJ7L/download-35.jpg"
+    }
+  ]
+}
